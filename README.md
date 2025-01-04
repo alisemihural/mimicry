@@ -1,4 +1,6 @@
-﻿**Proposed method on How to score Mimicry:**
+﻿# Mimicry
+
+**Proposed method on How to score Mimicry:**
 
 1. Moves (out of 100): Each move is graded separately irrespective of the order they are executed. (for 5 total moves in the original pattern (movement sequence), each move (action) is considered to be 20 points; for 3 moves total in the original pattern, every move is 33.3 points, etc.)
    1. If the action (unit movement) is correct but made on the wrong side, get half points. 
